@@ -25,8 +25,10 @@
   ---
 
   ### Notable work
-
-  - [Miden VM](https://github.com/0xMiden/miden-vm) — corelib documentation: `mmr::get` failure semantics, memory trace
+  -[0xMiden/project-template](https://github.com/0xMiden/project-template) — fixed build-contracts hook: path scope
+  leak, runtime tool detection, and duplicate build execution
+  ([#38](https://github.com/0xMiden/project-template/pull/38))
+  -[Miden VM](https://github.com/0xMiden/miden-vm) — corelib documentation: `mmr::get` failure semantics, memory trace
   corrections
 
   ---
