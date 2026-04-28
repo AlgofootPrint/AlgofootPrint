@@ -25,6 +25,8 @@
   ---
 
   ### Notable work
+  -0xMiden/node
+    #2005 — Replace BTreeMap/BTreeSet with HashMap/HashSet where ordering is not required (merged Apr 28, 2026)
   -0xMiden/miden-vm
     #3061 — docs(assembly): fix adv_pipe memory address notation in instruction reference (merged Apr 28, 2026)
   -[0xMiden/project-template](https://github.com/0xMiden/project-template) — fixed build-contracts hook: path scope
