@@ -39,6 +39,6 @@
 
   ### Ecosystems
 
-  `Miden (STARK/ZK)`· `Ethereum/EVM` · `Base` 
+  `Miden (STARK/ZK)`· `Ethereum/EVM` · `Base`· `Solana`
 
 
