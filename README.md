@@ -25,9 +25,11 @@
   ---
 
   ### Notable work
+  -0xMiden/miden-vm
+    #3061 — docs(assembly): fix adv_pipe memory address notation in instruction reference (merged Apr 28, 2026)
   -[0xMiden/project-template](https://github.com/0xMiden/project-template) — fixed build-contracts hook: path scope
   leak, runtime tool detection, and duplicate build execution
-  ([#38](https://github.com/0xMiden/project-template/pull/38))
+  ([#38](https://github.com/0xMiden/project-template/pull/38)) (merged Apr 15, 2026)
   -[Miden VM](https://github.com/0xMiden/miden-vm) — corelib documentation: `mmr::get` failure semantics, memory trace
   corrections
 
